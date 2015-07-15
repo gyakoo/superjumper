@@ -1,5 +1,5 @@
 # superjumper
-Small c++ minimalist multiplayer game where you have to jump on blocks to clear the level. Allows +4 players simultaneously and modding new levels/sound/sprites.
+Small minimalist multiplayer game created as a test of simple C (with little C++) where you have to jump on blocks to clear the level. Allows +4 players simultaneously and modding new levels/sound/sprites.
 
 You have to clear each level presented by jumping over all blocks making them
 disappear in a fourth dimension. Depending on level, you have a limited or unlimited number of boosters, something
