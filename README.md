@@ -7,7 +7,7 @@ like double jump.
 
 Binaries and source code provided.
 
-<img src="./capture.png" width="50%"/>
+<img src="./capture.png" width="40%"/> <img src="./capturemult.png" width="40%"/>
 
 # How to play
 <pre>
