@@ -1,0 +1,37 @@
+# ---------------------------------------------
+# Configuration values for Super Jumper Game
+# the format is a list of <key value>
+# For now, values are not in same units
+# gyakoo/juanpalf 2011
+# ---------------------------------------------
+
+# Vertical restitution when jump over top side of block
+topBounce 150.0
+
+# Lateral restitution when collision with a lateral of block
+lateralBounce 50.0
+
+# Vertical restitution when collision with bottom side of block
+bottomBounce 50.0
+
+# Vertical force applied when boosting (up)
+boostForce 150.0
+
+# Lateral force applied when moving left/right
+lateralForce 20.0
+
+# Friction of lateral force
+lateralFriction 8.0
+
+# Gravity force
+gravity 12.0
+
+# Gravity time factor multiplier
+gravityFactor 2.0
+
+# Starting number of lives
+lives 3
+
+# Font
+fontName Verdana
+fontSize 14
