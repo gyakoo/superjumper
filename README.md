@@ -6,7 +6,8 @@ disappear in a fourth dimension. Depending on level, you have a limited or unlim
 like double jump.
 
 It features different levels of difficulty and 2 modes, Normal & Time Attack.<br/>
-New world with different difficult levels and levels can be added with folders and txt files.
+New world with different difficult levels and levels can be added with folders and txt files. <br/>
+It also features social interaction as if four players are present ... bodies can touch! I warned you!
 
 Binaries and source code provided.
 
@@ -14,12 +15,14 @@ Binaries and source code provided.
 
 # How to play
 <pre>
-LEFT / RIGHT  : Moving the character
-UP            : Apply a boost force when character is in the air.
-DOWN          : Apply a boost force down
-SPACE         : Pause the game
-ESCAPE        : Exit the game
-F1            : Toggle windowed/fullscreen modes
+Moving/Superjump/Dive
+Player 1  : ARROW KEYS
+Player 2  : WSAD
+Player 3  : IKJL
+Player 4  : Numkeys
+SPACE     : Pause the game
+ESCAPE    : Exit the game
+F1        : Toggle windowed/fullscreen modes
 </pre>
 
 # Versions
