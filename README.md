@@ -5,18 +5,21 @@ You have to clear each level presented by jumping over all blocks making them
 disappear in a fourth dimension. Depending on level, you have a limited or unlimited number of boosters, something
 like double jump.
 
+It features different levels of difficulty and 2 modes, Normal & Time Attack.<br/>
+New world with different difficult levels and levels can be added with folders and txt files.
+
 Binaries and source code provided.
 
 <img src="./capture.png" width="40%"/> <img src="./capturemult.png" width="40%"/>
 
 # How to play
 <pre>
-LEFT / RIGHT	: Moving the character
-UP				    : Apply a boost force when character is in the air.
-DOWN			    : Apply a boost force down
-SPACE			    : Pause the game
-ESCAPE		    : Exit the game
-F1				    : Toggle windowed/fullscreen modes
+LEFT / RIGHT  : Moving the character
+UP            : Apply a boost force when character is in the air.
+DOWN          : Apply a boost force down
+SPACE         : Pause the game
+ESCAPE        : Exit the game
+F1            : Toggle windowed/fullscreen modes
 </pre>
 
 # Versions
