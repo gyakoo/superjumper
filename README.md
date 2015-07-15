@@ -7,16 +7,16 @@ like double jump.
 
 Binaries and source code provided.
 
-<img src="./capture.png"/>
+<img src="./capture.png" width="40%"/> <img src="./capturemult.png" width="40%"/>
 
 # How to play
 <pre>
 LEFT / RIGHT	: Moving the character
-UP				          : Apply a boost force when character is in the air.
-DOWN			      : Apply a boost force down
-SPACE			      : Pause the game
-ESCAPE		      : Exit the game
-F1				          : Toggle windowed/fullscreen modes
+UP				    : Apply a boost force when character is in the air.
+DOWN			    : Apply a boost force down
+SPACE			    : Pause the game
+ESCAPE		    : Exit the game
+F1				    : Toggle windowed/fullscreen modes
 </pre>
 
 # Versions
@@ -54,7 +54,7 @@ F1				          : Toggle windowed/fullscreen modes
 ## version 0.6 (March 8th  2011)
 - Splash & menu
 - Difficulty support
-- Levels added by Alvaro Marín
+- Levels added by Alvaro MarÃ­n
 - Author and version labels
 - Improvement in load from command line
 - Autodetect skin directories
